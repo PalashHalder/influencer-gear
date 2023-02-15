@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: #f7f4f4d7;
+}
+nav{
+    padding-top: 15px;
+    height: 50px;
+    background-color: aqua;
+    text-align: center;
+}
+
+.banner{
+    display: flex;
+    margin: 50px 145px 50px 145px;
+    height: 450px;
+    text-align: center;
+}
+
+.banner .left{
+    width: 50%;
+}
+
+.banner .left h2{
+    text-align: left;
+    font-size: 52px;
+    margin-bottom: 16px;
+}
+
+.banner .left p{
+    text-align: left;
+    font-size: 20px;
+    margin-bottom: 16px;
+}
+
+.banner .left .btn-banner{
+    text-align: left;
+}
+
+button{
+    padding: 10px 25px;
+    background-color: #E02C6D;
+    border: none;
+    border-radius: 20px;
+}
+
+button a{
+    font-size: 16px;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.banner .right{
+    margin-left: 133px;
+}
+
+.banner .right img{
+    height: 410px;
+    width: 440px;
+}
+
+.icons{
+    padding: 50px 20px;
+    background-color: #FFFFFF;
+    margin: 0px 145px;
+}
+
+.icons .img-icon{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+..popular-collection h2{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.popular-collection{
+    padding-top: 50px;
+    height: 1660px;
+    background-color: aquamarine;
+    text-align: center;
+    margin: 0px 165px 100px 165px;
+}
+
+.featured-products{
+    padding-top: 50px;
+    height: 270px;
+    background-color: royalblue;
+    text-align: center;
+    margin: 100px 165px 100px 165px;
+}
+
+footer{
+    padding-top: 50px;
+    height: 270px;
+    background-color: cornsilk;
+    text-align: center;
+    margin: 100px 165px 100px 165px;
+}
+
+
+
+
